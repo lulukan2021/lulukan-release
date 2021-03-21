@@ -19,5 +19,15 @@
 当前进度：
 * 紧张开发中
 
+其实一些道友已经开发了一些工具用于刮削和管理，这个APP更多是提供一个展示和集中管理的方案，我个人是觉得每次还需要用jellyfin在推流版本也挺麻烦，想直接使用本地播放器进行播放，而管理工具仅仅提供数据存储和检索功能即可。
+
+
+* [avdc](https://github.com/yoshiko2/AV_Data_Capture)
+* [Gfriends 女友头像仓库](https://github.com/xinxin8816/gfriends)
+* [avdc-gui](https://github.com/moyy996/AVDC)
+
+
+
+
 
 
