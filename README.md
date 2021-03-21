@@ -13,6 +13,9 @@
 1. 支持影片信息刮削
 2. 内嵌播放器
 
+截图示意：
+![image](https://github.com/lulukan2021/lulukan-release/raw/main/main_repo.png)
+
 当前进度：
 * 紧张开发中
 
